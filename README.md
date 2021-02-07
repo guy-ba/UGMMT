@@ -37,7 +37,7 @@ discover_approved_drugs (ine 38) [Optimized Drug Generation] -> True / False.\
 property (line 25) [property selection] -> QED / DRD2.
 
 
-###  Ablation Experiments  :
+# Ablation Experiments  :
 Druing training change gan_loss, kl_loss, swap_cycle_fp, use_fp, use_EETN, conditional and no_pre_train flages (lines 50-56 in train.py) according to:
 1. No Pre-train		  -> no_pre_train to True.
 2. NO EETN 			    -> use_EETN to False.
