@@ -5,7 +5,7 @@ We run all training and experiments on Ubuntu 18.04.5 using one Nvidia GeForce R
 
 
 ###  Installation  ###:
-1) install conda / minicaonda
+1) Install conda / minicaonda
 From the main folder run:
 2)conda env create -f environment.yml
 3)conda activate UGMMT
